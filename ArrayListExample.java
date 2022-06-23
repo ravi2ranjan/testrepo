@@ -14,6 +14,7 @@ public class ArrayListExample {
 		ArrayList<String> al=new ArrayList<String>();
 		al.add(null);
 		al.add("Ravi");
+		al.add("vini");
 		al.add("Sonu");
 		al.forEach(n->System.out.println(n));
 	}
