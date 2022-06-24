@@ -16,6 +16,7 @@ public class ArrayListExample {
 		al.add("Ravi");
 		al.add("vini");
 		al.add("Sonu");
+		al.add("papa");
 		al.forEach(n->System.out.println(n));
 	}
 
